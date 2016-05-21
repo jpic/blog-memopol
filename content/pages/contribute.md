@@ -6,7 +6,9 @@ All the code is <a href="https://github.com/political-memory">here</a>!
 
 # Where is the documentation ?
 
-It can be found [https://memopol.readthedocs.org/en/pr/index.html](here)!
+It can be found [https://memopol.readthedocs.org/](here)!
+
+#
 
 # How can I help ?
 
